@@ -1,4 +1,4 @@
- > refer: https://martinlwx.github.io/zh-cn/config-neovim-from-scratch/
+ > refer: 
 
 # Windows 配置
 一直弄不好LSP QQ
